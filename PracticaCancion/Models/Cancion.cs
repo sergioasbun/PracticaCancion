@@ -13,8 +13,8 @@ namespace PracticaCancion.Models
         [Required]
         public string Autor { get; set; }
         [Required]
-        public String Letra { get; set; }
+        public string Letra { get; set; }
         [Required]
-        public String EnlaceYT { get; set; }
+        public string EnlaceYT { get; set; }
     }
 }
